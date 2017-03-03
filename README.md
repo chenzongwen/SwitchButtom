@@ -4,7 +4,7 @@ Android自定义View 重写View的方法实现Button的左右自动滑动以及�
 
 Demo
 ====
- ![image](https://github.com/chenzongwen/SwitchButtom/blob/master/demo.png)
+ ![image](https://github.com/chenzongwen/SwitchButtom/blob/master/demo.gif)
 
 
 Author
